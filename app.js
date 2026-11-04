@@ -1,4 +1,4 @@
-/* Cinematic Portfolio Template. MIT licensed. No backend or runtime dependencies. */
+/* Netflix Portfolio Template. MIT licensed. No backend or runtime dependencies. */
 'use strict';
 const C=window.PORTFOLIO;
 const $=selector=>document.querySelector(selector);
